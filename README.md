@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudipta Dutta</h1>
 <h3 align="center">A AWS cloud practitioner, Full-Stack Developer from India</h3>
 
-<iframe align="right" alt="coding" width="400" src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+<img src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptadutta99&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptadutta99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptadutta99" alt="sudiptadutta99" /></a> </p>
